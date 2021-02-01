@@ -1,2 +1,1 @@
-# Horiseonmarket
-HTML-CSS Challenge
+# Code Refactor Starter Code
